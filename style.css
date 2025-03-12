@@ -1,0 +1,36 @@
+h1 {
+    font-family: 'Bradley hand' , cursive;
+    font-size: 53px;
+    text-align: center;  
+    font-weight: bold;
+  }
+  p1 {
+    font-family: 'Bradley hand' , cursive;
+    font-size: 30px;
+    text-align: center;  
+    font-weight: bold;
+  }
+.topnav {
+    background-color: #333333;
+    overflow: hidden;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family:'Bradley hand' , cursive;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: rgb(75, 8, 233);
+  }
+  
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: rgb(73, 119, 245);
+  }
