@@ -11,11 +11,13 @@ h1 {
     font-weight: lighter;
   }
   body {
-    background-image: url("photo-1515248027005-c33283ec3fba.jpg");
-    background-repeat: auto;
+    background-image: url("aboutme.jpg");
+    background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    background-position: center;
+    background-position: top 35% center;
+    width: full;
+    height: full;
   }
   p1 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -35,21 +37,22 @@ h1 {
   
   .topnav a {
     float: left;
-    color: #f2f2f2;
+    color: #ffffff;
     text-align: center;
-    padding: 17px 19px;
+    padding: 19px 21px;
     text-decoration: none;
     font-size: 17px;
     font-family: sans-serif;
+    font-weight: bold;
   }
   
   .topnav a:hover {
     background-color: #ddd;
-    color: rgb(0, 0, 0);
+    color:  rgba(0, 60, 255, 0.886);
   }
   
 img {
-    border: 4px solid #000;
+    border: 4px solid rgb(75, 0, 130);
     border-radius: 15px;
 }
 .center {
@@ -62,8 +65,8 @@ img {
   height: 50%;
 }
 .text-box {
-  background-color: #000000;
-  border: 2px solid black;
+  background-color: rgba(0, 60, 255, 0.886);
+  border: 4px solid rgb(75, 0, 130);
   border-radius: 15px;
   padding: 20px;
   margin: 20px;
@@ -72,8 +75,8 @@ img {
   text-align: start;
 }
 .text-box1 {
-  background-color: #000000;
-  border: 2px solid black;
+  background-color: rgba(0, 60, 255, 0.886);
+  border: 4px solid rgb(75, 0, 130);
   border-radius: 15px;
   padding: 20px;
   margin: 20px;
