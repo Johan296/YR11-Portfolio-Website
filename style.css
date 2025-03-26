@@ -10,6 +10,12 @@ h1 {
     text-align: start;
     font-weight: medium;
     }
+    h3 {
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      font-size: 30px;
+      text-align: center;
+      font-weight: medium;
+      }
   body {
     background-image: url("aboutme.jpg");
     background: linear-gradient(to bottom, #6e00bd, #244d94);
